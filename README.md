@@ -15,7 +15,7 @@ A lightweight incident detection and auto-remediation tool that mirrors real-wor
 │   cron (every 60s)                                  │
 │        │                                            │
 │        ▼                                            │
-│   monitor.py ──── threshold breach? ────────────►  │
+│   monitor.py ──── threshold breach? ────────────►   │
 │        │               │              incident.log  │
 │        │               │                            │
 │        │          service down?                     │
