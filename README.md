@@ -58,17 +58,20 @@ A lightweight incident detection and auto-remediation tool that mirrors real-wor
 ## Screenshots
 
 **monitor.py — warning alert firing in terminal**
-![Monitor output](docs/monitor-output.png)
+
+<img width="550" height="186" alt="image" src="https://github.com/user-attachments/assets/c4df9d77-8141-41df-a1ed-a40a9cfc36e8" />
 
 **incident.log — structured JSON entries**
-![Incident log](docs/incident-log.png)
+
+<img width="1112" height="284" alt="image" src="https://github.com/user-attachments/assets/27575209-b045-4fdb-8872-a51cd1474b9c" />
 
 **Slack — alert notification**
 
 <img width="529" height="369" alt="image" src="https://github.com/user-attachments/assets/f32dce4b-ca3c-45d4-a47c-6661ffb83a3e" />
 
 **healthcheck.sh — system status output**
-![Health check](docs/healthcheck-output.png)
+
+<img width="462" height="105" alt="image" src="https://github.com/user-attachments/assets/19ef8958-b504-4ab8-aad5-949d5b9c6697" />
 
 ---
 
