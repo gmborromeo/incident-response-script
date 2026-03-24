@@ -198,11 +198,6 @@ incident-response-script/
 ├── healthcheck.sh          # Bash health summary wrapper (exit 0/1)
 ├── .env.example            # Template — copy to .env, never commit .env
 ├── .gitignore
-├── docs/
-│   ├── monitor-output.png  # Screenshot
-│   ├── incident-log.png    # Screenshot
-│   ├── slack-alert.png     # Screenshot
-│   └── healthcheck-output.png  # Screenshot
 └── README.md
 ```
 
