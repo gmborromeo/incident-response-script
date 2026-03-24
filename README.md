@@ -64,6 +64,7 @@ A lightweight incident detection and auto-remediation tool that mirrors real-wor
 ![Incident log](docs/incident-log.png)
 
 **Slack — alert notification**
+
 <img width="529" height="369" alt="image" src="https://github.com/user-attachments/assets/f32dce4b-ca3c-45d4-a47c-6661ffb83a3e" />
 
 **healthcheck.sh — system status output**
